@@ -435,8 +435,8 @@ SOFTWARE.
 
 | | |
 |---|---|
-| 🐙 **GitHub** | [github.com/your-username](https://github.com/your-username) |
-| 💼 **LinkedIn** | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
+| 🐙 **GitHub** | https://github.com/prarthona540 |
+| 💼 **LinkedIn** |www.linkedin.com/in/prarthona-biswas-a601a3359 |
 
 ---
 
